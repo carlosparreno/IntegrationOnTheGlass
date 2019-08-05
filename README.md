@@ -2,7 +2,7 @@
 
 ## Software IT specialist ( IBM Benelux Internship)
 
-### 2013 – Oct 2013
+### March 2013 – October 2013
 
 Responsible for an internal project of IBM Benelux called “Integration on the Glass”.
 
